@@ -1,0 +1,28 @@
+_repo: Boy-Labour-and-Apprenticeship_39291
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bray, Reginald Arthur
+    gutenberg_agent_id: '39943'
+    url: http://www.gutenberg.org/2009/agents/39943
+description: ''
+gutenberg_issued: '2012-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teenage boys -- Great Britain'
+- !lcsh 'Child labor -- Great Britain'
+- !lcsh 'Working class -- Great Britain'
+- !lcc 'HD'
+- !lcsh 'Youth -- Employment -- Great Britain'
+- !lcsh 'Apprenticeship programs -- Great Britain'
+title: Boy Labour and Apprenticeship
+url: http://www.gutenberg.org/ebooks/39291
